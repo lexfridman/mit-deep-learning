@@ -1,1 +1,3 @@
 # deepcars
+
+BY-SA
