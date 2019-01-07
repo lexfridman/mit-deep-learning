@@ -10,29 +10,17 @@ This repository is a collection of tutorials, assignments, and competitions for 
 
 ## Tutorial: Driving Scene Segmentation
 
-<table>
-  <tr>
-    <td><img height="200px" width="356px" src="images/thumb_deeptraffic.gif"></td>
-    <td>DeepTraffic is a deep reinforcement learning competition. The goal is to create a neural network that drives a vehicle (or multiple vehicles) as fast as possible through dense highway traffic.</td>
-  </tr>
-  <tr height="212px">
-    <td width="382px"><img style="height:200px; width:356px;" src="images/thumb_deeptraffic.gif"></td>
-    <td valign="top"><p>DeepTraffic is a deep reinforcement learning competition. The goal is to create a neural network that drives a vehicle (or multiple vehicles) as fast as possible through dense highway traffic.</p>
-      <p>[ <a href="https://selfdrivingcars.mit.edu/deeptraffic" rel="nofollow" class="rich-diff-level-one">GitHub</a> ] - [ <a href="https://selfdrivingcars.mit.edu/deeptraffic" rel="nofollow" class="rich-diff-level-one">Website</a> ] - [ <a href="https://arxiv.org/abs/1801.02805" rel="nofollow" class="rich-diff-level-one">Paper</a> ]</p>
-    </td>
-  </tr>
-</table>
+...
 
 ## DeepTraffic Deep Reinforcement Learning Competition
 
-<img align="left" src="images/thumb_deeptraffic.gif">
+<img src="images/thumb_deeptraffic.gif">
 
 DeepTraffic is a deep reinforcement learning competition. The goal is to create a neural network that drives a vehicle (or multiple vehicles) as fast as possible through dense highway traffic.
 
 [ [GitHub](https://selfdrivingcars.mit.edu/deeptraffic) ] - 
 [ [Website](https://selfdrivingcars.mit.edu/deeptraffic) ] - 
 [ [Paper](https://arxiv.org/abs/1801.02805) ]
-
 
 
 
