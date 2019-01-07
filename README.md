@@ -18,9 +18,7 @@ This repository is a collection of tutorials, assignments, and competitions for 
 
 DeepTraffic is a deep reinforcement learning competition. The goal is to create a neural network that drives a vehicle (or multiple vehicles) as fast as possible through dense highway traffic.
 
+Links to get started with: 
 [ [GitHub](https://selfdrivingcars.mit.edu/deeptraffic) ] - 
 [ [Website](https://selfdrivingcars.mit.edu/deeptraffic) ] - 
 [ [Paper](https://arxiv.org/abs/1801.02805) ]
-
-
-
