@@ -2,15 +2,13 @@
 
 ![MIT Deep Learning](https://deeplearning.mit.edu/files/images/mit_deep_learning.png)
 
-This repository is a collection of tutorials, assignments, and competitions for several deep learning related courses at MIT. Here are some things you can do:
-
-1. Visit https://deeplearning.mit.edu and watch lectures.
-1. Follow the tutorials below. We'll be adding more as the courses progress.
-1. Connect with Lex (instructor) on [Twitter](https://twitter.com/LexFridman), [LinkedIn](https://www.linkedin.com/in/lexfridman/), [Instagram](https://www.instagram.com/lexfridman/), [Facebook](https://www.facebook.com/lexfridman), or [YouTube](https://www.youtube.com/lexfridman).
+This repository is a collection of tutorials for [MIT Deep Learning](https://deeplearning.mit.edu/) courses. More tutorials are added regularly.
 
 ## Tutorial: Driving Scene Segmentation
 
-...
+<a href="https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb"><img src="images/thumb_driving_scene_segmentation.gif"></a>
+
+Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb) \]
 
 ## DeepTraffic Deep Reinforcement Learning Competition
 
@@ -18,7 +16,4 @@ This repository is a collection of tutorials, assignments, and competitions for 
 
 DeepTraffic is a deep reinforcement learning competition. The goal is to create a neural network that drives a vehicle (or multiple vehicles) as fast as possible through dense highway traffic.
 
-Links: 
-[ [GitHub](https://github.com/lexfridman/deeptraffic) ] 
-[ [Website](https://selfdrivingcars.mit.edu/deeptraffic) ] 
-[ [Paper](https://arxiv.org/abs/1801.02805) ]
+Links: \[ [GitHub](https://github.com/lexfridman/deeptraffic) \] \[ [Website](https://selfdrivingcars.mit.edu/deeptraffic) \] \[ [Paper](https://arxiv.org/abs/1801.02805) \]
