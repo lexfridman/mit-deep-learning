@@ -1,5 +1,16 @@
-# deepcars
+# MIT Deep Learning
 
-Course website: http://cars.mit.edu
+![MIT Deep Learning](https://deeplearning.mit.edu/files/images/mit_deep_learning.png)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+This repository is a collection of tutorials, assignments, and competitions for MIT Deep Learning related courses: https://deeplearning.mit.edu
+
+Here are some things you can do:
+
+1. Visit https://deeplearning.mit.edu and watch lectures.
+1. Follow the tutorials below.
+1. Sign up to our [mailing list](http://eepurl.com/dy1Obr) for updates.
+1. Connect with Lex (instructor) on [Twitter](https://twitter.com/LexFridman), [LinkedIn](https://www.linkedin.com/in/lexfridman/), [Instagram](https://www.instagram.com/lexfridman/), [Facebook](https://www.facebook.com/lexfridman), or [YouTube](https://www.youtube.com/lexfridman).
+1. Join our Slack channel (deep-mit.slack.com). Get an invite by [clicking here](https://deep-mit-slack.herokuapp.com/).
+
+## Tutorial: Driving Scene Segmentation
+
