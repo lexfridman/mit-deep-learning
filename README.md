@@ -2,7 +2,7 @@
 
 ![MIT Deep Learning](https://deeplearning.mit.edu/files/images/mit_deep_learning.png)
 
-This repository is a collection of tutorials for [MIT Deep Learning](https://deeplearning.mit.edu/) courses. More tutorials are added regularly.
+This repository is a collection of tutorials for [MIT Deep Learning](https://deeplearning.mit.edu/) courses. More added as courses progress.
 
 ## Tutorial: Driving Scene Segmentation
 
