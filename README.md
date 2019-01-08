@@ -17,3 +17,12 @@ Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blo
 DeepTraffic is a deep reinforcement learning competition. The goal is to create a neural network that drives a vehicle (or multiple vehicles) as fast as possible through dense highway traffic.
 
 Links: \[ [GitHub](https://github.com/lexfridman/deeptraffic) \] \[ [Website](https://selfdrivingcars.mit.edu/deeptraffic) \] \[ [Paper](https://arxiv.org/abs/1801.02805) \]
+
+### Code Visualization:
+
+If you want the good work to continue please support us on
+
+ [![Watch the video](https://img.youtube.com/vi/e49PHW6ViF8/0.jpg)](https://www.youtube.com/watch?v=e49PHW6ViF8)
+
+ [https://www.youtube.com/watch?v=e49PHW6ViF8](https://www.youtube.com/watch?v=e49PHW6ViF8)
+
