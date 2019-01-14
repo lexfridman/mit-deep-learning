@@ -4,9 +4,20 @@
 
 This repository is a collection of tutorials for [MIT Deep Learning](https://deeplearning.mit.edu/) courses. More added as courses progress.
 
+## Tutorial: Deep Learning Basics
+
+<a href="https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb"><img src="https://i.imgur.com/j4FqBuR.gif"></a>
+
+This tutorial accompanies the [lecture on Deep Learning Basics](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U). It presents several concepts in deep learning, demonstrating the first two (feed forward and convolutional neural networks) and providing pointers to tutorials on the others. This is a good place to start.
+
+Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb) \]
+\[ [Google Colab](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb) \]
+
 ## Tutorial: Driving Scene Segmentation
 
 <a href="https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb"><img src="images/thumb_driving_scene_segmentation.gif"></a>
+
+This tutorial demostrates semantic segmentation with a state-of-the-art model (DeepLab) on a sample video from the MIT Driving Scene Segmentation Dataset.
 
 Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb) \]
 \[ [Google Colab](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb) \]
