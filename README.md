@@ -1,6 +1,6 @@
 # MIT Deep Learning
 
-![MIT Deep Learning](https://deeplearning.mit.edu/files/images/mit_deep_learning.png)
+<a href="https://deeplearning.mit.edu/"><img src="https://deeplearning.mit.edu/files/images/mit_deep_learning.png"></a>
 
 This repository is a collection of tutorials for [MIT Deep Learning](https://deeplearning.mit.edu/) courses. More added as courses progress.
 
@@ -12,6 +12,8 @@ This tutorial accompanies the [lecture on Deep Learning Basics](https://www.yout
 
 Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb) \]
 \[ [Google Colab](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb) \]
+\[ [Lecture Video](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U) \]
+
 
 ## Tutorial: Driving Scene Segmentation
 
