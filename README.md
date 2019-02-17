@@ -12,6 +12,7 @@ This tutorial accompanies the [lecture on Deep Learning Basics](https://www.yout
 
 Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb) \]
 \[ [Google Colab](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb) \]
+\[ [Blog Post](https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0) \]
 \[ [Lecture Video](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U) \]
 
 
@@ -23,6 +24,15 @@ This tutorial demostrates semantic segmentation with a state-of-the-art model (D
 
 Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb) \]
 \[ [Google Colab](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb) \]
+
+## Tutorial: Generative Adversarial Networks (GANs)
+
+<a href="https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_gans/tutorial_gans.ipynb"><img src="images/thumb_mushroom_biggan.gif"></a>
+
+This tutorial explores generative adversarial networks (GANs) starting with BigGAN, the state-of-the-art conditional GAN.
+
+Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_gans/tutorial_gans.ipynb) \]
+\[ [Google Colab](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_gans/tutorial_gans.ipynb) \]
 
 ## DeepTraffic Deep Reinforcement Learning Competition
 
