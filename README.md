@@ -20,7 +20,7 @@ Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blo
 
 <a href="https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb"><img src="images/thumb_driving_scene_segmentation.gif"></a>
 
-This tutorial demostrates semantic segmentation with a state-of-the-art model (DeepLab) on a sample video from the MIT Driving Scene Segmentation Dataset.
+This tutorial demonstrates semantic segmentation with a state-of-the-art model (DeepLab) on a sample video from the MIT Driving Scene Segmentation Dataset.
 
 Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb) \]
 \[ [Google Colab](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb) \]
